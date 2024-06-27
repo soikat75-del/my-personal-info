@@ -1,0 +1,12 @@
+h2{
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 100px;
+    display:block;
+    height: 40px;
+    width: 240px;
+    text-align: center;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
